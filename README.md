@@ -1,10 +1,5 @@
 # 🦅 Falcons Express MVC
-
-<!--
-  Sugerencia: sube el banner ya generado a /docs/banner.svg en este repo
-  y reemplaza la línea de abajo con:
-  ![Banner](./docs/banner.svg)
--->
+![Banner](./falconsexpressmvc/docs/banner.svg)
 
 <p align="center">
   <strong>Aplicación web para gestión de usuarios, productos y pedidos utilizando arquitectura MVC</strong>
