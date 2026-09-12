@@ -1,5 +1,6 @@
+![Banner](./falconsexpressmvc/docs/banner.png)
+
 # 🦅 Falcons Express MVC
-![Banner](./falconsexpressmvc/docs/banner.svg)
 
 <p align="center">
   <strong>Aplicación web para gestión de usuarios, productos y pedidos utilizando arquitectura MVC</strong>
