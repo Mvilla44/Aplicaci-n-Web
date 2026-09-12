@@ -1,4 +1,4 @@
-![Banner](./falconsexpressmvc/docs/banner.png)
+![Banner](./FalconsExpressMVC/docs/banner.png)
 
 # 🦅 Falcons Express MVC
 
